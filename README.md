@@ -3,7 +3,7 @@
 
 <pre>
 @font-face {
-    font-family: 'PPEiko-BlackItalic';
+    font-family: '116watermelon';
     font-weight: normal;
     font-style: normal;
     src: url('https://cdn.jsdelivr.net/gh/webfontworld/116watermelon/116watermelon.eot');
